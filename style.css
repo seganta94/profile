@@ -1,0 +1,69 @@
+h1 {
+  color: #3A4D39;
+}
+
+h2 {
+  color: #739072;
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Annie Use Your Telescope', cursive;
+  background-color: #ECE3CE;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(4, 154, 59);
+}
+
+.card {
+  background-color: rgb(255, 255, 255);
+  border-radius: 3%;
+  padding: 10px;
+  margin: 20px;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.self-image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0px 20px;
+  padding-left: 0px;
+}
+
+.icon {
+  color: black;
+  font-size: 40px;
+}
+
+button {
+  border-radius: 5px;
+  background-color: #739072;
+  padding: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  box-shadow: none;
+  border: none;
+}
+
+.title {
+  font-family: 'Courier New', Courier, monospace;
+  word-spacing: -5px
+}
